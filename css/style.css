@@ -1,0 +1,66 @@
+header{
+    height: 100px;
+    background-color: royalblue;
+    background-image: url(img\pattern.png);
+    background-repeat: repeat-x;
+    
+}
+
+#logo-head{
+    width: 10%;
+}
+
+.dettagli{
+    font-size: 10px;
+    color:grey;
+}
+#autore{
+    color: #35A6FF;
+}
+#data{
+    font-size: 8px;
+}
+
+.didascalie{
+    font-size: 8px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+table{
+    border-spacing: 0;
+    text-align: justify;
+}
+.colonna-1{
+    width: 25%;
+}
+.colonna-2{
+    width: 25%;
+}
+th{
+    background-color: #35A6FF;
+    color: white;
+}
+.riga-1{
+    background-color: #8CE9FF;
+}
+.riga-2{
+    background-color: white;
+}
+.riga-3{
+    background-color: #8CE9FF;
+}
+
+.ads{
+    color: grey;
+}
+
+.pubblicita{
+    width: 50px;
+    height: 50px;
+}
+#advert-1{
+    background-image: url(img\monitor.jpg);
+}
